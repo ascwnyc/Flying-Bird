@@ -1,0 +1,8 @@
+/Logs
+/Packages
+/UserSettings
+/Library/*
+.vscode
+/Temp
+/obj/debug
+/ProjectSettings
